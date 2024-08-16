@@ -27,13 +27,13 @@ Here's a table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
-How about a yummy crepe?
+How about a lovely snowball?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+![Crepe](https://beautifuljekyll.com/assets/img/snowball_0.jpg)
 
 It can also be centered!
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Crepe](https://beautifuljekyll.com/assets/img/snowball_0.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
@@ -84,8 +84,8 @@ You can add notification, warning and error boxes like this:
 
 When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
 
-![Crepe](/assets/img/crepe.jpg)
+![Crepe](/assets/img/snowball_0.jpg)
 
 If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
 
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+![Crepe]({{ '/assets/img/snowball_0.jpg' | relative_url }})
