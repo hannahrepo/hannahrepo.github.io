@@ -20,11 +20,11 @@ author: Hannah
 ###############################################
 
 navbar-links:
-  关于我: "关于我"
+  关于我: "aboutme"
   我的主页: "https://www.zhihu.com/people/hannah-87-7-1"
-  生活:
-  学习:
-  工作:  
+  生活: "aboutme"
+  学习: "aboutme"
+  工作: "aboutme"
 
 
 ################

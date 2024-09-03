@@ -14,4 +14,3 @@ I find joy in the little things in life, love my children, and enjoy playing wit
 ### My story
 
 To be honest, I still have many questions about life and this universe.
-可以支持中文
