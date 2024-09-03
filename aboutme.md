@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About the blue sky and white clouds.
-subtitle: Discover the beauty of life.
+title:  有空的时候看看蓝天白云和脚下的路
+subtitle:  搜寻下有趣的事
 ---
 
-Although we are ordinary and unremarkable, we still look forward to life and have love for our loved ones.
+记录点有意义有灵魂的事！
 
-- I love myself 
-- I love my family
+- 把每一件感兴趣的小事做到极致！ 
+- 照顾好我的家人！
+- 尽力的帮助下朋友！
 
-I find joy in the little things in life, love my children, and enjoy playing with my pets.
+很多时候我觉得自己还挺富有的， 有爱我超过我爱她的孩子， 有爱我比较多的爸妈， 还有一只总是跟在我屁股后面的狗娃子， 还有给我做早餐的队友！
 
-### My story
+### 我的故事
 
-To be honest, I still have many questions about life and this universe.
+我的故事就是平平无奇！
