@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Hannah's blog
+title: 我的blog
 
 # Your name to show in the footer
 author: Hannah
@@ -20,11 +20,12 @@ author: Hannah
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://www.zhihu.com/people/hannah-87-7-1"
+  关于我: "关于我"
+  我的主页: "https://www.zhihu.com/people/hannah-87-7-1"
+  生活:
+  学习:
+  工作:  
+
 
 ################
 # --- Logo --- #
